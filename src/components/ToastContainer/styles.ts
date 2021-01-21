@@ -32,7 +32,7 @@ export const Container = styled.div`
 export const Toast = styled.div<ToastProps>`
   width: 360px;
   position: relative;
-  margin: 16px 30px 16px 16px;
+  margin: 8px 30px 8px 16px;
   border-radius: 10px;
   box-shadow: 2px 2px 8px rgba(0, 0, 0, 0.2);
   display: flex;
