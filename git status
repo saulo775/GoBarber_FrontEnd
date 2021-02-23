@@ -1,0 +1,113 @@
+[33mcommit 1d226978448a7539fa44eac1e80ef46bf700b5db[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: saulo775 <59702227+saulo775@users.noreply.github.com>
+Date:   Mon Feb 22 23:07:04 2021 -0300
+
+    Criando Pagina de recuperação de senha
+
+[33mcommit 447968e63e9221adb9f16c841d9b8193a2d46cf7[m[33m ([m[1;31morigin/main[m[33m)[m
+Author: saulo775 <59702227+saulo775@users.noreply.github.com>
+Date:   Tue Jan 26 11:18:33 2021 -0300
+
+    finalizando app
+
+[33mcommit 4796f0f81f8c2d9617e02f6a8ddbd301eb7d40d6[m
+Author: saulo775 <59702227+saulo775@users.noreply.github.com>
+Date:   Tue Jan 26 10:53:05 2021 -0300
+
+    Rotas autenticadas
+
+[33mcommit 006ed6e721f8aa35da2f0be3b9085a63868c99f4[m
+Author: saulo775 <59702227+saulo775@users.noreply.github.com>
+Date:   Tue Jan 26 10:16:26 2021 -0300
+
+    Configurando rotas
+
+[33mcommit 921ca79b63b28844d701491c6d841b43c4154c7e[m
+Author: saulo775 <59702227+saulo775@users.noreply.github.com>
+Date:   Mon Jan 25 19:19:41 2021 -0300
+
+    Animando toasts com react spring
+
+[33mcommit cf802af06f42b7b92e83024017e133667a77f305[m
+Author: saulo775 <59702227+saulo775@users.noreply.github.com>
+Date:   Mon Jan 25 17:13:30 2021 -0300
+
+    Adcionando e removendo toasts
+
+[33mcommit 62bbc29ec1bbf741746f63338c2575f189da02ef[m
+Author: saulo775 <59702227+saulo775@users.noreply.github.com>
+Date:   Thu Jan 21 16:04:21 2021 -0300
+
+    criando hook de toast
+
+[33mcommit 6aaa59ff66d1575ef7384290a20aa31a2b859cb9[m
+Author: saulo775 <59702227+saulo775@users.noreply.github.com>
+Date:   Tue Jan 19 17:21:56 2021 -0300
+
+    Estrutura de toasts
+
+[33mcommit 3b08022a3d70df8df19b26dbf8474ceb75e80850[m
+Author: saulo775 <59702227+saulo775@users.noreply.github.com>
+Date:   Tue Jan 19 13:20:00 2021 -0300
+
+    Logout da aplicação
+
+[33mcommit 450ca76e354f66ae2296ca5b1a294efa1d9910d2[m
+Author: saulo775 <59702227+saulo775@users.noreply.github.com>
+Date:   Tue Jan 19 13:11:26 2021 -0300
+
+    Criando hook useAuth
+
+[33mcommit 79e1bc4576556d4731d7bff686ccd08545e5e668[m
+Author: saulo775 <59702227+saulo775@users.noreply.github.com>
+Date:   Tue Jan 19 11:42:44 2021 -0300
+
+    Mantendo o usuário no storage
+
+[33mcommit 532b3594765b20764078085965b4ce935c2c8a01[m
+Author: saulo775 <59702227+saulo775@users.noreply.github.com>
+Date:   Tue Jan 19 11:10:47 2021 -0300
+
+    Login pelo contexto
+
+[33mcommit 9dc94480e497744c3dcf9b406378e4aeda31ea3a[m
+Author: saulo775 <59702227+saulo775@users.noreply.github.com>
+Date:   Tue Jan 19 09:59:34 2021 -0300
+
+    API de contexto
+
+[33mcommit 553cdc4a9c1f3b53c39c0d227b4ef625bee89364[m
+Author: saulo775 <59702227+saulo775@users.noreply.github.com>
+Date:   Tue Jan 19 08:49:21 2021 -0300
+
+    validação de usuário na página de login
+
+[33mcommit 311e9f0ab85cb4135049a677e6310de77540d1f6[m
+Author: saulo775 <59702227+saulo775@users.noreply.github.com>
+Date:   Mon Jan 18 21:21:57 2021 -0300
+
+    criando tooltip de erros
+
+[33mcommit a393789d7f940376e1b330bc9a3490ed86fa102d[m
+Author: saulo775 <59702227+saulo775@users.noreply.github.com>
+Date:   Mon Jan 18 10:46:28 2021 -0300
+
+    exibindo erros no input
+
+[33mcommit 06f853fc0639d3d718abc39e13dc2cad0cd48f6d[m
+Author: saulo775 <59702227+saulo775@users.noreply.github.com>
+Date:   Wed Jan 13 22:00:40 2021 -0300
+
+    componentização dos imputs e buttons, estilização pagina de cadastro
+
+[33mcommit a4cf0b7c47d1db6a12821f50740e010042b8399a[m
+Author: saulo775 <59702227+saulo775@users.noreply.github.com>
+Date:   Tue Jan 12 13:59:21 2021 -0300
+
+    commit  - estilização da página de login e de cadastro
+
+[33mcommit cc623485e8fd63572d17919a3c8359903d6d8fbe[m
+Author: saulo775 <59702227+saulo775@users.noreply.github.com>
+Date:   Mon Jan 11 22:24:31 2021 -0300
+
+    estilo global
