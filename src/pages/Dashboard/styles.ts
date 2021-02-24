@@ -1,4 +1,3 @@
-import { FiPrinter } from 'react-icons/fi';
 import styled from 'styled-components';
 
 import { shade } from 'polished';
@@ -52,6 +51,16 @@ export const Profile = styled.div`
     span {
       color: #f4ede8;
     }
+
+    a {
+      text-decoration: none;
+      color: #ff9000;
+
+      &:hover {
+        opacity: 0.8;
+      }
+    }
+
     strong {
       color: #ff9000;
     }
